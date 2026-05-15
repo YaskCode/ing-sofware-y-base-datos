@@ -19,5 +19,6 @@ Cada equipo definirá su agente inteligente, historias de usuario, requisitos fu
 - README inicial
 - Historias de usuario
 - Requisitos funcionales y no funcionales
-- Diagramas Mermaid
+- Diagramas de CU
+- Descripción de los CU
 - Evaluación ISO 25010 preliminar
