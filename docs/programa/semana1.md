@@ -1,4 +1,4 @@
-# Semana 1 — Ingeniería de Software Moderna, Calidad y Diseño Inteligente
+# Semana 1 — Ingeniería de Software Moderna, Calidad y Diseño IA
 
 ## Objetivo
 Aplicar principios de ingeniería de software moderna, estándares de calidad y herramientas de IA generativa para el diseño inicial de una plataforma inteligente cloud-native.
