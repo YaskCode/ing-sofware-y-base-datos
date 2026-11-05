@@ -6,7 +6,7 @@ Diseñar arquitecturas escalables y resilientes basadas en microservicios, servi
 ## Teoría
 - Arquitectura Monolítica vs Microservicios
 - Arquitectura Cloud-Native
-- AI-FFirst Suystems
+- Sistemas AI-first
 - Serverless Computing
 - Docker y Contenedores
 - Sistemas Multiagente
@@ -22,3 +22,9 @@ Cada equipo definirá la arquitectura de su solución, los componentes principal
 - Dockerfile inicial
 - Definición del agente inteligente del equipo
 - Arquitectura AI-first
+
+## Guía de trabajo
+
+Distingue estilo arquitectónico, patrón arquitectónico, patrón de diseño y arquitectura de referencia. Justifica los que apliques. Modela límites de servicios, API gateway y un flujo de eventos con productores, consumidores y tratamiento de duplicados. Define contratos con entradas, salidas y errores, y documenta qué herramientas requeriría el agente y dónde se integraría MCP.
+
+[Laboratorio de API contenerizada](../laboratorios/README.md#2-api-contenerizada)

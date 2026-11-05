@@ -26,3 +26,9 @@ Cada equipo implementará la persistencia de datos de su solución, configurará
 - Dockerización de servicios
 - Evidencias de despliegue
 - Validación de pruebas automáticas
+
+## Guía de trabajo
+
+Vincula cada modelo de persistencia con una necesidad del sistema. Explica la fuente de verdad de cada dato y las exigencias de consistencia, disponibilidad y escalabilidad. Distingue el uso transaccional, documental, analítico y vectorial. Documenta el traslado de datos sintéticos a BigQuery, el control de acceso y cómo reproducir el pipeline.
+
+[Laboratorio de persistencia, analítica y CI](../laboratorios/README.md#3-persistencia-analítica-y-ci)

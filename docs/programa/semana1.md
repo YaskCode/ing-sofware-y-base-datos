@@ -22,3 +22,11 @@ Cada equipo definirá su agente inteligente, historias de usuario, requisitos fu
 - Diagramas de CU
 - Descripción de los CU
 - Evaluación ISO 25010 preliminar
+
+## Guía de trabajo
+
+Compara plataformas similares mediante una matriz funcional y deriva una oportunidad de mejora. Delimita actores, alcance y flujos. Convierte un atributo de calidad en un escenario medible. Relaciona cada historia prioritaria con un requisito y su criterio de aceptación.
+
+Completa la entrega con Gantt, hitos y responsables, registro de riesgos, estimación de costos y factibilidad. Describe el propósito, entradas, herramientas y límites del agente propuesto. Registra las decisiones asistidas por IA y cómo las verificaste.
+
+[Laboratorio de trazabilidad](../laboratorios/README.md#1-trazabilidad-y-documentación-viva)
