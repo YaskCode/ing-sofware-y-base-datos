@@ -9,14 +9,15 @@ El objetivo es diseñar, construir y desplegar soluciones de software mediante a
 
 La metodología combina sesiones síncronas, discusión de artículos, laboratorios asíncronos y un proyecto incremental. El [programa original](programa-isbd-2026.pdf) registra sesiones síncronas martes de 8 a 10 p. m. y sábados de 10 a. m. a 12 m., y trabajo asíncrono lunes y jueves de 8 a 10 p. m. El horario y las fechas de la próxima cohorte se publicarán cuando se confirmen.
 
-## Evaluación
+## Evaluación vigente
+
+Esta distribución sustituye la evaluación que figura en los documentos originales.
 
 | Actividad | Valor | Fecha del programa original |
 |---|---:|---|
-| [Sprint técnico 1](semana1.md) | 10 % | 18/05/2026 |
-| [Sprint técnico 2](semana2.md) | 10 % | 25/05/2026 |
+| [Sprint técnico 1](semana1.md) | 15 % | 18/05/2026 |
+| [Sprint técnico 2](semana2.md) | 15 % | 25/05/2026 |
 | [Sprint técnico 3](semana3.md) | 15 % | 01/06/2026 |
-| [Ponencia](semana4.md#ponencia) | 10 % | 13/06/2026 |
 | [Proyecto final](../proyecto-final/README.md) | 50 % | 13/06/2026 |
 | Participación, asistencia y documentación | 5 % | Continua |
 | **Total** | **100 %** | |
